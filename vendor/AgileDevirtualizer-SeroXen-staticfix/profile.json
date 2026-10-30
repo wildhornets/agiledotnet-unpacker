@@ -1,0 +1,15 @@
+{
+  "name": "SeroXen-known-runtime-static-vm-fixes-v1",
+  "source_sha256": "7cb37cd110a388998ce95819da915446331f614a5da8d5cfeed953812ada23f1",
+  "runtime_sha256": "de6f08708b8bc6562828c7787769d14752b2c1ab0b0e9b34b1ed44987bd2f842",
+  "executable": "AgileDevirtualizer.exe",
+  "assembly": "AgileDevirtualizer.dll",
+  "assembly_sha256": "9177b61b640d937b675648440b13df841d8970d3426df72fcee32df642a66302",
+  "target_specific_value_read_opcodes": [
+    203,
+    572
+  ],
+  "target_execution_required": false,
+  "compilation_required": false,
+  "warning": "This opcode profile is bound to the exact source/runtime hashes; never apply it to another assembly."
+}

@@ -1,0 +1,169 @@
+{
+  "format": "public-file-manifest-v1",
+  "files": {
+    ".gitignore": {
+      "sha256": "0f8ffdf247be9360973b30aca577b5ea6b5ed8710c8d38d3dde2d59ca8a5f1ee",
+      "size": 1962
+    },
+    "LICENSE": {
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "size": 35149
+    },
+    "README.md": {
+      "sha256": "538fb52cec351e33787db94e3d3aabfa8028f8cb5aa2cc7c91c0e85255f8a9e3",
+      "size": 4451
+    },
+    "SOURCES.txt": {
+      "sha256": "e2f90c8748297a5c5bce4add221da05d6289e46f3bb2d7edf5604d23a2cac0ef",
+      "size": 1345
+    },
+    "VERSION.json": {
+      "sha256": "c1aff97bc91d355d10c5a997880a3f7a86c36aca8f9cd9602adaefcb40eb2812",
+      "size": 842
+    },
+    "clean_readable.ps1": {
+      "sha256": "109fb84820cabb465b45c960062bc6be5ad3ba79f1e4014b839170cec45a6f01",
+      "size": 1020
+    },
+    "cleanup-tools/helper-closure.json": {
+      "sha256": "81335823133aff89a918cd48d420ec630a2a8218e332dc98535004fc1ff83c18",
+      "size": 4694
+    },
+    "cleanup-tools/load_dnlib.ps1": {
+      "sha256": "65a1ebcff023359814c92bce0824fbfb17f6c2ea841432fbfa2b92f70f1eb5af",
+      "size": 780
+    },
+    "cleanup-tools/remove_c5vm_static.ps1": {
+      "sha256": "4397f2667f2a57f41a67914122c9e3b65de2cf35443c0ab2bbb403682fee2eee",
+      "size": 16408
+    },
+    "cleanup-tools/rename_readable.ps1": {
+      "sha256": "e119a38c2cbd720568bab26196018e8e9c33d9481469bbbd968d628610928b54",
+      "size": 20170
+    },
+    "export_readable_source.ps1": {
+      "sha256": "a93f9439a1480003dd1a26bbfd4c872ed544a8583ae8d536837f39bb79332c60",
+      "size": 4255
+    },
+    "make_readable.py": {
+      "sha256": "3dcd51719a7456d1739f1d71bd00a85a40fe51f56dab41f1fe189263b64d86c8",
+      "size": 21208
+    },
+    "opcodes.json": {
+      "sha256": "6a266092cb837f43d06df2bebe70785858bb4c4ac3832517a62bfc398f4c688d",
+      "size": 22443
+    },
+    "patches/NOTES.txt": {
+      "sha256": "7d19e9399eea5fa0b0a42e717c299ffb9aa421e73f845ee7c0a7eab7988e41c2",
+      "size": 969
+    },
+    "patches/patch_vm_tool.ps1": {
+      "sha256": "58b0526f5a174f3260780308d99daef2cef4a91d720bfca226f80cf879dca461",
+      "size": 11195
+    },
+    "patches/patch_vm_tool_phase2.ps1": {
+      "sha256": "a8bca27fb309de7017a022aff8e06c52643f065debd43557067b6fdc08248c1a",
+      "size": 13755
+    },
+    "patches/patch_vm_tool_phase3.ps1": {
+      "sha256": "dd8545e8a10fa2c97a50b2aedcbba09fcd98d2f7bc464175714c86f65b085079",
+      "size": 6127
+    },
+    "patches/rebuild_static_profile.ps1": {
+      "sha256": "07c645d0138a0fb157e8891949c1d4895e57ecf7a840298f3089d107da502172",
+      "size": 1637
+    },
+    "patches/scope_pointer_reads.ps1": {
+      "sha256": "28050108edd2c4f077bc145aa10ab4a1632648fbeba894f0e503e09510a26668",
+      "size": 2702
+    },
+    "tests/test_static_tools.py": {
+      "sha256": "2ab4a02d660ef94873e47025f5a0b4256d095c61854a69174581273c1f9e023d",
+      "size": 2446
+    },
+    "unpacker.py": {
+      "sha256": "5f263cf541aff7c0cd5ee0c95b68d026d630aebe79175d32722d1cb8c445477c",
+      "size": 50267
+    },
+    "vendor/AgileDevirtualizer-LICENSE.txt": {
+      "sha256": "3ac75476d1b3cb2ddc3a13ce408478a1e428c970284eec60b6a04a739e37fcd9",
+      "size": 1065
+    },
+    "vendor/AgileDevirtualizer-SeroXen-staticfix/AgileDevirtualizer.deps.json": {
+      "sha256": "057d4780d5319e605e131bfc134cd65314d29c8e338d8654ea8425655e690a0e",
+      "size": 3238
+    },
+    "vendor/AgileDevirtualizer-SeroXen-staticfix/AgileDevirtualizer.dll": {
+      "sha256": "9177b61b640d937b675648440b13df841d8970d3426df72fcee32df642a66302",
+      "size": 1003008
+    },
+    "vendor/AgileDevirtualizer-SeroXen-staticfix/AgileDevirtualizer.exe": {
+      "sha256": "f1a6f663446b13bf8fbd6e0e6cf50b97e68397b60c6eafd4575274ec3a562766",
+      "size": 152064
+    },
+    "vendor/AgileDevirtualizer-SeroXen-staticfix/AgileDevirtualizer.runtimeconfig.json": {
+      "sha256": "95505548c838f72a6a829fd5332dbc674c715ce26a216e9eb32bec8b5821eae2",
+      "size": 447
+    },
+    "vendor/AgileDevirtualizer-SeroXen-staticfix/AsmResolver.DotNet.dll": {
+      "sha256": "3735997609461e5442b3a776a82caf7250472c16b6906e8c588f857507bdf073",
+      "size": 591872
+    },
+    "vendor/AgileDevirtualizer-SeroXen-staticfix/AsmResolver.PE.File.dll": {
+      "sha256": "d64dc527c80b6651a3f8115a4390b277a886094525b9f1e18d2882da29dc4ddd",
+      "size": 40448
+    },
+    "vendor/AgileDevirtualizer-SeroXen-staticfix/AsmResolver.PE.dll": {
+      "sha256": "f091b99e74c3f0ae5346930287c56900e0465c8af05ff56e69f1a01f1bedfc3b",
+      "size": 403456
+    },
+    "vendor/AgileDevirtualizer-SeroXen-staticfix/AsmResolver.dll": {
+      "sha256": "4894cbd1b64e18e5700481e7c81461c7fbfb7c25fbfde945d494bacb98c6a64d",
+      "size": 67584
+    },
+    "vendor/AgileDevirtualizer-SeroXen-staticfix/profile.json": {
+      "sha256": "bcd85686a8bc458d509f4ba94f5aeaf739635d895d141502f94182b84d3f2b09",
+      "size": 668
+    },
+    "vendor/AgileDevirtualizer-v1.0.1/AgileDevirtualizer.deps.json": {
+      "sha256": "057d4780d5319e605e131bfc134cd65314d29c8e338d8654ea8425655e690a0e",
+      "size": 3238
+    },
+    "vendor/AgileDevirtualizer-v1.0.1/AgileDevirtualizer.dll": {
+      "sha256": "a09ddedd44014a7fb9bb0be0f837d4015436a32701f07532df5157239733a9a8",
+      "size": 986112
+    },
+    "vendor/AgileDevirtualizer-v1.0.1/AgileDevirtualizer.exe": {
+      "sha256": "f1a6f663446b13bf8fbd6e0e6cf50b97e68397b60c6eafd4575274ec3a562766",
+      "size": 152064
+    },
+    "vendor/AgileDevirtualizer-v1.0.1/AgileDevirtualizer.runtimeconfig.json": {
+      "sha256": "95505548c838f72a6a829fd5332dbc674c715ce26a216e9eb32bec8b5821eae2",
+      "size": 447
+    },
+    "vendor/AgileDevirtualizer-v1.0.1/AsmResolver.DotNet.dll": {
+      "sha256": "3735997609461e5442b3a776a82caf7250472c16b6906e8c588f857507bdf073",
+      "size": 591872
+    },
+    "vendor/AgileDevirtualizer-v1.0.1/AsmResolver.PE.File.dll": {
+      "sha256": "d64dc527c80b6651a3f8115a4390b277a886094525b9f1e18d2882da29dc4ddd",
+      "size": 40448
+    },
+    "vendor/AgileDevirtualizer-v1.0.1/AsmResolver.PE.dll": {
+      "sha256": "f091b99e74c3f0ae5346930287c56900e0465c8af05ff56e69f1a01f1bedfc3b",
+      "size": 403456
+    },
+    "vendor/AgileDevirtualizer-v1.0.1/AsmResolver.dll": {
+      "sha256": "4894cbd1b64e18e5700481e7c81461c7fbfb7c25fbfde945d494bacb98c6a64d",
+      "size": 67584
+    },
+    "vendor/AsmResolver-LICENSE.txt": {
+      "sha256": "2f60b296bfe1b2e74f24c193c7b7e3406f8ee1dccc32a013ba267dcf377ae33f",
+      "size": 1108
+    },
+    "vendor/release-provenance.json": {
+      "sha256": "fe90ca49a4bc32d20488c1743e25aacd1e0d20f21f06b752ad6fb65d15060acc",
+      "size": 460
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "closure": [
+    {
+      "method": "System.Boolean l3U=.0HU=::1XU=(System.Object,System.Object,l3U=.zXU=)",
+      "token": "06000032",
+      "has_body": true,
+      "instructions": 286,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.Object l3U=.6HU=::63U=(System.UInt64,l3U=.2nU=)",
+      "token": "0600003A",
+      "has_body": true,
+      "instructions": 71,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.Object l3U=.6HU=::6nU=(System.Int64,l3U=.2nU=,System.Boolean,System.Boolean)",
+      "token": "06000039",
+      "has_body": true,
+      "instructions": 28,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.Object l3U=.6HU=::73U=(System.UInt32,l3U=.2nU=)",
+      "token": "0600003E",
+      "has_body": true,
+      "instructions": 71,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.Object l3U=.6HU=::7HU=(System.Int64,l3U=.2nU=)",
+      "token": "0600003B",
+      "has_body": true,
+      "instructions": 64,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.Object l3U=.6HU=::7nU=(System.Int32,l3U=.2nU=,System.Boolean,System.Boolean)",
+      "token": "0600003D",
+      "has_body": true,
+      "instructions": 28,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.Object l3U=.6HU=::7XU=(System.Int64,l3U=.2nU=)",
+      "token": "0600003C",
+      "has_body": true,
+      "instructions": 62,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.Object l3U=.6HU=::8HU=(System.Int32,l3U=.2nU=)",
+      "token": "0600003F",
+      "has_body": true,
+      "instructions": 64,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.Object l3U=.6HU=::8XU=(System.Int32,l3U=.2nU=)",
+      "token": "06000040",
+      "has_body": true,
+      "instructions": 62,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.Object l3U=.JHY=::JnY=(System.Object)",
+      "token": "06000050",
+      "has_body": true,
+      "instructions": 62,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.Object l3U=.tHU=::vXU=(System.Object,System.Object)",
+      "token": "0600001E",
+      "has_body": true,
+      "instructions": 192,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.Object l3U=.tHU=::wXU=(System.Object,System.Object)",
+      "token": "06000022",
+      "has_body": true,
+      "instructions": 192,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.Object l3U=.w3U=::x3U=(System.Object,System.Object)",
+      "token": "06000028",
+      "has_body": true,
+      "instructions": 97,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.Object l3U=.w3U=::xnU=(System.Object,System.Object)",
+      "token": "06000027",
+      "has_body": true,
+      "instructions": 210,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.Resources.ResourceManager l3U=.VnY=::WXY=()",
+      "token": "0600007A",
+      "has_body": true,
+      "instructions": 23,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.String <C5VM86>::zoY=(System.String)",
+      "token": "0600079D",
+      "has_body": true,
+      "instructions": 56,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.String l3U=.VnY=::XHY=()",
+      "token": "0600007D",
+      "has_body": true,
+      "instructions": 10,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.Void <C5VM86>::.cctor()",
+      "token": "0600079C",
+      "has_body": true,
+      "instructions": 9,
+      "pinvoke": false,
+      "static_constructor": true
+    },
+    {
+      "method": "System.Void VMRuntime.Libraries.CSVMRuntimeException::.ctor(System.String,System.Object[])",
+      "token": "0600004D",
+      "has_body": true,
+      "instructions": 8,
+      "pinvoke": false,
+      "static_constructor": false
+    },
+    {
+      "method": "System.Void VMRuntime.Libraries.CSVMRuntimeException::.ctor(System.String)",
+      "token": "0600004E",
+      "has_body": true,
+      "instructions": 13,
+      "pinvoke": false,
+      "static_constructor": false
+    }
+  ]
+}

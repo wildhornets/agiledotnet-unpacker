@@ -1,0 +1,17 @@
+Static lifter patch reproducibility
+==================================
+These scripts rewrite the trusted prebuilt AgileDevirtualizer v1.0.1 tool as IL;
+they do NOT execute the inspected application or invoke a C# compiler.
+Only the exact upstream release and source/runtime profile are supported.
+Use PowerShell 7 and trusted dnlib 3.5.0. Outputs must be new directories.
+
+From the project root (set $Dnlib and $Work to your own paths):
+  $Dnlib = 'D:\tools\dnlib.dll'
+  $Work = 'D:\analysis\patch-build'
+  pwsh -NoProfile -File .\patches\rebuild_static_profile.ps1 -OutputDirectory $Work -DnlibPath $Dnlib
+
+The final tool is in phase4/. Original vendor files are never overwritten.
+The wrapper verifies the exact expected final DLL hash. Provenance files in
+phase directories are LOCAL audit records, not intended for publication.
+The normal pipeline already includes the prepatched, hash-checked binary.
+This maintenance step is optional, never called automatically.

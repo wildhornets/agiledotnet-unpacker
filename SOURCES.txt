@@ -1,0 +1,26 @@
+Licensing and sources
+=====================
+Project scripts: GPL-3.0-or-later; see LICENSE.
+de4dot copyright 2011-2015 de4dot@gmail.com.
+AgileDotNetSlayer copyright 2021 CodeStrikers.org.
+
+Algorithm/reference material:
+https://github.com/de4dot/de4dot/blob/master/de4dot.code/deobfuscators/Agile_NET/MethodsDecrypter.cs
+https://github.com/de4dot/de4dot/blob/master/de4dot.code/deobfuscators/Agile_NET/vm/CsvmDataReader.cs
+https://cert-agid.gov.it/news/decodificare-e-crackare-agile-net-6-6/
+Agile.NET-Deobfuscator, AgileDotNetSlayer, and other user-supplied research trees
+were inspected as references, not bundled as additional projects.
+
+Bundled static VM lifter:
+https://github.com/dawwinci/agile-net-devirtualizer
+Release v1.0.1 (prebuilt Windows x64), MIT license.
+See vendor/AgileDevirtualizer-LICENSE and vendor/release-provenance.json.
+AsmResolver dependencies: see vendor/AsmResolver-LICENSE.
+The modified lifter remains under its upstream MIT license; static IL patch
+sources are provided in patches/. Its exact supported profile is hash-bound.
+
+dnlib and dnSpy are optional external analysis dependencies, not bundled.
+https://github.com/0xd4d/dnlib
+https://github.com/dnSpyEx/dnSpy
+Opcode descriptions came from .NET System.Reflection.Emit.OpCodes metadata.
+No third-party project or target application is compiled by these scripts.

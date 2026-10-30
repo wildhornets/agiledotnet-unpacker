@@ -1,0 +1,18 @@
+{
+  "tool_version": "1.0.0",
+  "target_family": "Agile.NET / AgileDotNet",
+  "target_series": "6.6",
+  "observed_c5vm_assembly_version": "6.6.0.11",
+  "observed_c5vm_file_version": "6.6.0.11",
+  "observed_c5vm_product_version": "6.6.0.11",
+  "observed_product_name": "AgileDotNet",
+  "version_scope": "Observed in the supplied managed C5VM runtime metadata; the exact protector builder edition is not independently established.",
+  "upstream_lifter_version": "v1.0.1",
+  "universal_unpacker": false,
+  "supported_source_sha256": "7cb37cd110a388998ce95819da915446331f614a5da8d5cfeed953812ada23f1",
+  "observed_original_runtime_sha256": "de6f08708b8bc6562828c7787769d14752b2c1ab0b0e9b34b1ed44987bd2f842",
+  "tested_python": "3.11",
+  "tested_dnlib": "3.5.0",
+  "lifter_dotnet_runtime": "8.0",
+  "compile_automatically": false
+}

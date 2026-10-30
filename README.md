@@ -2,7 +2,7 @@
 
 Static Agile.NET unpacker for inspecting recovered C# in dnSpy.
 
-**Tested on SeroXen** protected with Agile.NET 6.6 / C5VM 6.6.0.11.
+**Tested on SeroXen RAT** protected with Agile.NET 6.6 / C5VM 6.6.0.11.
 The runtime version comes from C5VM's assembly and file metadata. This is a
 tested sample profile, not support for every Agile.NET build.
 
